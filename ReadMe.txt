@@ -1,6 +1,6 @@
 KeylimePHP is a micro framework for quickly writing simple and clean PHP applications.
 
-It was created in 2006 so it is in need of some overhalling.
+It was created in 2006 so it is in need of some overhauling.
 
 The only dependency is PHP5 and Pear.
 
