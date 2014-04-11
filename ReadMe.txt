@@ -2,7 +2,7 @@ KeylimePHP is a micro framework for quickly writing simple and clean PHP applica
 
 It was created in 2006 so it is in need of some overhauling.
 
-The only dependency is PHP5 and Pear.
+The only dependency is PHP5 and Pear DB.
 
 Have a look around, get your feet wet, and check out _config.php to add your DB particulars.
 
